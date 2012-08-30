@@ -1,0 +1,15 @@
+[submodule "external/skdata"]
+	path = external/skdata
+	url = https://github.com/jaberg/skdata.git
+[submodule "external/sthor"]
+	path = external/sthor
+	url = git@github.com:nsf-ri-ubicv/sthor.git
+[submodule "external/bangreadout"]
+	path = external/bangreadout
+	url = https://github.com/npinto/bangreadout.git
+[submodule "external/bangmetric"]
+	path = external/bangmetric
+	url = https://github.com/npinto/bangmetric.git
+[submodule "external/thoreano"]
+	path = external/thoreano
+	url = git@github.com:nsf-ri-ubicv/thoreano.git
